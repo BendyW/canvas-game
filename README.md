@@ -1,1 +1,3 @@
-This is a basic canvas game
+##Practicing using requestAnimationFrame
+
+Used for updating the canvas page.
